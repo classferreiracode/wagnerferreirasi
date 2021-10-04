@@ -1,5 +1,8 @@
-### Wagner Ferreira
-#Estudante de Análise e Desenvolvimento de Sistemas pela Estácio - Polo: Sorocaba-SP
+<h1 aling="center">Wagner Ferreira</h1>
+Estudante de Análise e Desenvolvimento de Sistemas pela Estácio - Polo: Sorocaba-SP.
+Amante de novas tecnologias. 
+Atualmente trabalho em home-office em pequenos projetos Web.
+
 
 <!--
 **wagnerferreirasi/wagnerferreirasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
