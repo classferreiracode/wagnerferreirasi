@@ -1,4 +1,7 @@
 <h1 aling="center">Wagner Ferreira</h1>
+https://img.shields.io/github/followers/wagnerferreirasi?style=social
+https://img.shields.io/github/stars/wagnerferreirasi?style=social
+<br>
 <p>Estudante de Análise e Desenvolvimento de Sistemas pela Estácio - Polo: Sorocaba-SP.</p>
 <p>Amante de novas tecnologias. </p>
 <p>🔭 Atualmente trabalho em home-office em pequenos projetos Web.</p>
