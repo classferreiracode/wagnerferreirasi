@@ -5,7 +5,8 @@
 <p>Estudante de Análise e Desenvolvimento de Sistemas pela Estácio - Polo: Sorocaba-SP.</p>
 <p>Programador Web Jr, na AMZ|MP</p>
 <p>Amante de novas tecnologias. </p>
-<p>🔭 Atualmente trabalho em home-office em pequenos projetos Web.</p>
+
+
 
 
 <!--
