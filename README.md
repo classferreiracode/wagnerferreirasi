@@ -4,7 +4,7 @@
 <br>
 <p>🌱 - Estudante de Análise e Desenvolvimento de Sistemas pela Estácio - Polo: Sorocaba-SP.</p>
 <p>🔭 - Programador Web, na AMZ|MP</p>
-<p>🌱 - Amante de novas tecnologias. </p>
+<p>⚡ - Amante de novas tecnologias. </p>
 
 
 
