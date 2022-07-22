@@ -2,9 +2,9 @@
 <img src="https://img.shields.io/github/followers/wagnerferreirasi?style=social"/>
 <img src="https://img.shields.io/github/stars/wagnerferreirasi?style=social"/>
 <br>
-<p>Estudante de Análise e Desenvolvimento de Sistemas pela Estácio - Polo: Sorocaba-SP.</p>
-<p>Programador Web Jr, na AMZ|MP</p>
-<p>Amante de novas tecnologias. </p>
+<p>🌱 - Estudante de Análise e Desenvolvimento de Sistemas pela Estácio - Polo: Sorocaba-SP.</p>
+<p>🔭 - Programador Web, na AMZ|MP</p>
+<p>🌱 - Amante de novas tecnologias. </p>
 
 
 
