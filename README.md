@@ -3,10 +3,10 @@
 <img src="https://img.shields.io/github/stars/wagnerferreirasi?style=social"/>
 <br>
 <p>🌱 - Estudante de Análise e Desenvolvimento de Sistemas pela Estácio - Polo: Sorocaba-SP.</p>
-<p>🔭 - Programador Web, na AMZ|MP</p>
-<p>⚡ - Amante de novas tecnologias. </p>
-
-
+<p>🔭 - Programador Web</p>
+<p>😍 - Amante de novas tecnologias. </p>
+<p>🛠️ - Frameworks: Laravel, CodeIgniter. </p>
+<p>⚡ - PHP, Javascript, Vue, Alpine, Tailwind CSS, BootStrap, Materilize, Sass, Css, Html </p>
 
 
 <!--
