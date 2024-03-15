@@ -1,6 +1,4 @@
-<h1 aling="center">Wagner Ferreira</h1>
-<img src="https://img.shields.io/github/followers/wagnerferreirasi?style=social"/>
-<img src="https://img.shields.io/github/stars/wagnerferreirasi?style=social"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Wagner+Ferreira;Web+Developer+%7C+Laravel+-+CodeIgniter+-+VueJs)](https://git.io/typing-svg)
 <br>
 Sou Wagner Ferreira, um programador autodidata apaixonado por PHP e desenvolvimento web. 
 Desde 2007, venho estudando e aprimorando minhas habilidades nessa área, com foco especial em programação back-end. 
