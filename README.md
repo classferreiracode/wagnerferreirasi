@@ -14,6 +14,8 @@ In this position, I have the opportunity to apply all my knowledge and experienc
 
 In addition to working at the agency, I also dedicate part of my time to continuous study and the search for new technologies and practices that can improve my work and add value to the projects in which I am involved.
 <br>
+<br>
+
 [pt-BR]
 Sou Wagner Ferreira, um programador autodidata apaixonado por PHP e desenvolvimento web. 
 Desde 2007, venho estudando e aprimorando minhas habilidades nessa área, com foco especial em programação back-end. 
